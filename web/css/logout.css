@@ -1,0 +1,65 @@
+body{
+    margin :0;
+    padding: 0;
+    background: url(../pictures/back.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+}
+
+.logout
+{
+    width: 1350px;
+    height: 40px;
+    background: #ea2022;
+    color: #fff;
+    top: 0px;
+    left:0px;
+    position: absolute;
+
+}
+
+.logout1
+{
+
+    background: #ea2022;
+    color: #fff;
+    top: 0px;
+    left:1200px;
+    position: absolute;
+    font-size: 3w0px;
+
+}
+
+.tree
+{
+    width: 400px;
+    height: 500px;
+
+
+    top: 50%;
+    left:60%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+
+    padding: 70px 30px ;
+}
+
+
+
+.xMass{
+    width: 400px;
+    height: 600px;
+
+    position: absolute;
+
+    left: calc(50% - 50px);
+}
+
+
+
+
+
+
+
